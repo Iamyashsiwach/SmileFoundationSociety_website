@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+card-bg {
+  background-image: url('./images/cardDesign.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.imageStyle {
+  width: 175px;
+  height: 175px;
+  object-fit: cover;
+  /* This will ensure that the image covers the entire area of the div without distortion */
+}
+
+.commonClass {
+  width: 175px;
+}
+
+html {
+  scroll-behavior: smooth
+}
