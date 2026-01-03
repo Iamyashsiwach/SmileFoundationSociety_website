@@ -19,7 +19,7 @@
     "embla-carousel-react": "^8.0.0-rc18",
     "firebase": "^10.6.0",
     "lucide-react": "^0.307.0",
-    "next": "14.0.3",
+    "next": "14.2.35",
     "razorpay": "^0.0.0",
     "react": "^18",
     "react-awesome-reveal": "^4.2.8",
